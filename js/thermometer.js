@@ -6,6 +6,11 @@ let node = document.getElementById('node');
 
 function emptyTheThermometer(){
 
+	/*
+	using unicode value of font-awesome icons and appending that to &#x
+	for instance, the unicode value of the below icon is: f2c7.
+	which after appending to &#x becomes &#xf2c7 
+	*/
 	node.innerHTML = '&#xf2c7;';
 
 	setTimeout(function(){
