@@ -1,0 +1,1 @@
+/* All the JavaScript for thermometer.html is put here */
