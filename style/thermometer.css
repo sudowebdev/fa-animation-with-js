@@ -1,1 +1,16 @@
 /* All the styling for thermometer.html is put here */
+
+#node {
+	font-size:  10em;
+	color: blueviolet;
+}
+
+.center {
+	text-align:  center;
+}
+
+.title {
+  	font-size:  4em;
+  	color:  darkgrey;
+  	font-family: 'Bellefair', serif;
+}
