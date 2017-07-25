@@ -1,6 +1,6 @@
 /* All the JavaScript for thermometer.html is put here */
 
-
+//script for full-empty animation
 let node = document.getElementById('node');
 
 
@@ -17,3 +17,6 @@ emptyTheThermometer();
 
 
 setInterval(emptyTheThermometer, 2000);
+
+
+
